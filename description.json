@@ -6,5 +6,6 @@
 	"tags": "webapp, mobileweb, android",
 	"playstore": "https://market.android.com/details?id=com.pelletiere.android.busangerswebapp",
 	"qrcode": "http://manu.habite.la/img/pages/smartmap-qr.png",
+	"images": ["http://localhost:3004/img/pages/smartmap-1.png"],
 	"order": 10
 }
