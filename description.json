@@ -1,11 +1,7 @@
 {
 	"title": "SmartMap Angers (Plan du réseau Irigo)",
 	"url": "http://manu.habite.la/smartmap",
-	"content": "<p>Pour voir en un instant où je suis par rapport aux transports en commun angevins, j'ai mis en place la <strong class=\"i\">SmartMap Angers</strong>. Cette application web destinée aux mobiles permet de voir le réseau de bus et tramway sur un plan Google Maps, et surtout d'être <span class=\"b\">géolocalisé</span> sur la carte.</p>
-    <p>Bon, si vous n'avez pas d'iPhone <span class=\"small strike\">(«et bien... vous n'avez pas d'iPhone»)</span>, d'Android ou de BlackBerry, la géolocalisation risque de ne pas marcher... Mais vous pouvez toujours effectuer des recherches manuelles et naviguer sur la carte.</p>
-    <p>Attention, qui dit appli web dit connexion Internet obligatoire sur votre téléphone !</p>
-    <p>Si vous avez un Android avec le Play Store, vous pouvez aussi télécharger le lien vers l'application pour plus de simplicité ;)</p>
-    <p class=\"small i\">Le plan est tiré du site <a href=\"http://bustram.irigo.fr/pages/index.php?page=plans_reseau\" target=_blank>Irigo</a>.</p>",
+	"content": "<p>Pour voir en un instant où je suis par rapport aux transports en commun angevins, j'ai mis en place la <strong class=\"i\">SmartMap Angers</strong>. Cette application web destinée aux mobiles permet de voir le réseau de bus et tramway sur un plan Google Maps, et surtout d'être <span class=\"b\">géolocalisé</span> sur la carte.</p><p>Bon, si vous n'avez pas d'iPhone <span class=\"small strike\">(«et bien... vous n'avez pas d'iPhone»)</span>, d'Android ou de BlackBerry, la géolocalisation risque de ne pas marcher... Mais vous pouvez toujours effectuer des recherches manuelles et naviguer sur la carte.</p><p>Attention, qui dit appli web dit connexion Internet obligatoire sur votre téléphone !</p><p>Si vous avez un Android avec le Play Store, vous pouvez aussi télécharger le lien vers l'application pour plus de simplicité ;)</p><p class=\"small i\">Le plan est tiré du site <a href=\"http://bustram.irigo.fr/pages/index.php?page=plans_reseau\" target=_blank>Irigo</a>.</p>",
 	"class": "smartmap",
 	"tags": "webapp, mobileweb, android",
 	"playstore": "https://market.android.com/details?id=com.pelletiere.android.busangerswebapp",
