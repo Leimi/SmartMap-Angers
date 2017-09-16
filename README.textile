@@ -1,5 +1,7 @@
 h1. SmartMap Angers
 
+**Attention : ** ce plan n'a pas été mis à jour depuis 2013. "Voir le plan officiel en pdf.":http://bustram.irigo.fr/pdf/irigo/plansemaine.pdf
+
 La SmartMap Angers est un plan du réseau "Irigo":http://bustram.irigo.fr/ des transports en commun angevins.
 L'application repose sur l'API Google Maps et utilise notamment :
 * un "Custom Map Type":https://developers.google.com/maps/documentation/javascript/maptypes#CustomMapTypes pour afficher "les images du plan Irigo":http://bustram.irigo.fr/pages/plans/semaine.php à la place de celles de Google. Les tuiles ont été construites notamment à l'aide de cet outil en ligne : http://anymap.org/GmapImage2TileGenerator/
